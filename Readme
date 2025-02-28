@@ -11,11 +11,11 @@
 
 ## ⚙ Установка  
 1. Клонируйте репозиторий:  
-   ```bash
+   ```
    git clone https://github.com/MUIVSPO-ISPP2309/firstpet-memryq.git
    ```
 2. Перейдите в папку проекта и запустите программу:  
-   ```bash
+   ```
    python todo.py
    ```
 
